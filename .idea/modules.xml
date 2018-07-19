@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ice_api/ice_api.iml" filepath="$PROJECT_DIR$/ice_api/ice_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice_cumsumer-dept-feign/ice_cumsumer-dept-feign.iml" filepath="$PROJECT_DIR$/ice_cumsumer-dept-feign/ice_cumsumer-dept-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice_cunsumer-dept-80/ice_cunsumer-dept-80.iml" filepath="$PROJECT_DIR$/ice_cunsumer-dept-80/ice_cunsumer-dept-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice_eureka-7001/ice_eureka-7001.iml" filepath="$PROJECT_DIR$/ice_eureka-7001/ice_eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice_eureka-7002/ice_eureka-7002.iml" filepath="$PROJECT_DIR$/ice_eureka-7002/ice_eureka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice_eureka-7003/ice_eureka-7003.iml" filepath="$PROJECT_DIR$/ice_eureka-7003/ice_eureka-7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice_provider-dept-8001/ice_provider-dept-8001.iml" filepath="$PROJECT_DIR$/ice_provider-dept-8001/ice_provider-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice_provider-dept-8002/ice_provider-dept-8002.iml" filepath="$PROJECT_DIR$/ice_provider-dept-8002/ice_provider-dept-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice_provider-dept-8003/ice_provider-dept-8003.iml" filepath="$PROJECT_DIR$/ice_provider-dept-8003/ice_provider-dept-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice_provider-dept-hystrix-8001/ice_provider-dept-hystrix-8001.iml" filepath="$PROJECT_DIR$/ice_provider-dept-hystrix-8001/ice_provider-dept-hystrix-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice_stream.iml" filepath="$PROJECT_DIR$/ice_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice_zuul-gateway-9527/ice_zuul-gateway-9527.iml" filepath="$PROJECT_DIR$/ice_zuul-gateway-9527/ice_zuul-gateway-9527.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="ice_api" />
+        <module name="ice_cumsumer-dept-feign" />
+        <module name="ice_cunsumer-dept-80" />
+        <module name="ice_eureka-7001" />
+        <module name="ice_eureka-7002" />
+        <module name="ice_eureka-7003" />
+        <module name="ice_provider-dept-8001" />
+        <module name="ice_provider-dept-8002" />
+        <module name="ice_provider-dept-8003" />
+        <module name="ice_provider-dept-hystrix-8001" />
+        <module name="ice_zuul-gateway-9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ice_api" target="1.8" />
+      <module name="ice_cumsumer-dept-feign" target="1.8" />
+      <module name="ice_cunsumer-dept-80" target="1.8" />
+      <module name="ice_eureka-7001" target="1.8" />
+      <module name="ice_eureka-7002" target="1.8" />
+      <module name="ice_eureka-7003" target="1.8" />
+      <module name="ice_provider-dept-8001" target="1.8" />
+      <module name="ice_provider-dept-8002" target="1.8" />
+      <module name="ice_provider-dept-8003" target="1.8" />
+      <module name="ice_provider-dept-hystrix-8001" target="1.8" />
+      <module name="ice_stream" target="1.8" />
+      <module name="ice_zuul-gateway-9527" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
